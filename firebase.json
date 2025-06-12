@@ -1,0 +1,33 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "jrod-scrum-poker",
+          "appId": "1:586582966668:android:516fff523d0241661516a9",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "jrod-scrum-poker",
+          "configurations": {
+            "android": "1:586582966668:android:516fff523d0241661516a9",
+            "ios": "1:586582966668:ios:d665c4f642f3507d1516a9",
+            "macos": "1:586582966668:ios:d665c4f642f3507d1516a9",
+            "web": "1:586582966668:web:5abd60ddc78004151516a9",
+            "windows": "1:586582966668:web:58a30179abd9f85c1516a9"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

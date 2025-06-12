@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586582966668",
+    "project_id": "jrod-scrum-poker",
+    "storage_bucket": "jrod-scrum-poker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586582966668:android:516fff523d0241661516a9",
+        "android_client_info": {
+          "package_name": "com.example.scrum_pocker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEW4qq7uP12fTY13Jf6I5egUiqQBGaDR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
